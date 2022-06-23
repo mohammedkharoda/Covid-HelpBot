@@ -1,5 +1,5 @@
 
-# Covid ChatBot 🗯️
+# Covid HelpBot 🗯️
 
 ### ``Features 😷`` 
 > 1. Symptons Checks
