@@ -43,7 +43,7 @@ def symptoms():
         print(' Chances of getting covid +ve is very High')
         print(' Have a Check Immediately!!')
 
-        
+
 # ========> Book Vaccine
 def bookVaccine():
     print('To book your vaccine you may visit here: https://www.cowin.gov.in')
@@ -96,5 +96,5 @@ while True:
 
     userChoice = input('Enter the Choice: ')
     if(userChoice!= "1"):
-        print('Be safe be Secure')
+        print('Be safe Wear Mask')
         break
